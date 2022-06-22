@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Material Design App</string>
+    <string name="employee_name">Employee Name</string>
+    <string name="employee_id">Employee ID</string>
+    <string name="email_id">Email ID</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="company_name">Company Name</string>
+    <string name="designation">Designation</string>
+    <string name="click_here">Click here</string>
+    <string name="material_design_demo">Material Design Demo</string>
+</resources>
